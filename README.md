@@ -2,8 +2,12 @@
 Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning Surveys](https://github.com/metrofun/machine-learning-surveys)
 
 ## Table of Contents
+- [Image Captioning](#Image-Captioning)
 - [SLAM](#SLAM)
 - [Stereo](#Stereo)
+
+### Image Captioning
+* [Reference Based LSTM for Image Captioning](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249/14270 "Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu") (2017) [Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu] [255pp]
 
 ### SLAM
 

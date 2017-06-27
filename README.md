@@ -25,5 +25,5 @@ Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning S
 [Moritz Menze, Andreas Geiger] (2016)
 
 ### Others
-
+* [Collective Deep Quantization for Efficient Cross-Modal Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14499/14269 "Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu") [Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

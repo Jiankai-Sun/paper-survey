@@ -2,11 +2,11 @@
 Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning Surveys](https://github.com/metrofun/machine-learning-surveys)
 
 ## Table of Contents
-- [Image/Video Captioning](# Image/Video-Captioning)
-- [Multi-Tasking](# Multi\-Tasking)
-- [SLAM](# SLAM)
-- [Stereo](# Stereo)
-- [Others](# Others)
+- [Image/Video Captioning](###Image/Video-Captioning)
+- [Multi-Tasking](###Multi\-Tasking)
+- [SLAM](###SLAM)
+- [Stereo](###Stereo)
+- [Others](###Others)
 
 ### Image/Video Captioning
 * [Reference Based LSTM for Image Captioning](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249/14270 "Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu") [Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

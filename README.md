@@ -2,11 +2,11 @@
 Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning Surveys](https://github.com/metrofun/machine-learning-surveys)
 
 ## Table of Contents
-- [Image/Video Captioning](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#Image/Video-Captioning)
-- [Multi-Tasking](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#Multi\-Tasking)
-- [SLAM](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#SLAM)
-- [Stereo](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#Stereo)
-- [Others](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#Others)
+- [Image/Video Captioning](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#imagevideo-captioning)
+- [Multi-Tasking](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#multi-tasking)
+- [SLAM](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#slam)
+- [Stereo](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#stereo)
+- [Others](https://github.com/JiankaiSun-SJTU-MVIG-training/paper-survey/#others)
 
 ### Image/Video Captioning
 * [Reference Based LSTM for Image Captioning](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249/14270 "Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu") [Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

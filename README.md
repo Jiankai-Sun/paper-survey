@@ -2,14 +2,16 @@
 Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning Surveys](https://github.com/metrofun/machine-learning-surveys)
 
 ## Table of Contents
-- [Image/Video Captioning](#Image/Video-Captioning)
-- [Multi-Tasking](#Multi\-Tasking)
-- [SLAM](#SLAM)
-- [Stereo](#Stereo)
-- [Others](#Others)
+- [Image/Video Captioning](# Image/Video-Captioning)
+- [Multi-Tasking](# Multi\-Tasking)
+- [SLAM](# SLAM)
+- [Stereo](# Stereo)
+- [Others](# Others)
 
 ### Image/Video Captioning
 * [Reference Based LSTM for Image Captioning](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249/14270 "Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu") [Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+* [Video Captioning with Listwise Supervision](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14926/14300 "Yuan Liu, Xue Li, Zhongchao Shi") [Yuan Liu, Xue Li, Zhongchao Shi] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

@@ -26,6 +26,7 @@ If you find a paper about computer vision and machine learning is not listed her
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Object Tracking
+* [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

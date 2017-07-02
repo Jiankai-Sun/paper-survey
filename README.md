@@ -1,9 +1,18 @@
 # Paper Surveys
 Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning Surveys](https://github.com/metrofun/machine-learning-surveys)
 
+This is a record of research papers of computer vision and machine learning that I have read. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me.
+
+You are more than welcome to update this list! 
+If you find a paper about computer vision and machine learning is not listed here, or the classification is not appropriate, please
+
+- fork this repository, add it and merge back;
+- or report an issue here.
+
 ## Table of Contents
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Multi-Tasking](#multi-tasking)
+- [Object Tracking](#object-tracking)
 - [SLAM](#slam)
 - [Stereo](#stereo)
 - [Others](#others)
@@ -15,6 +24,8 @@ Thanks to @Dmytrii S., there is another version forcused on  [Machine Learning S
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+### Object Tracking
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

@@ -15,6 +15,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Object Tracking](#object-tracking)
 - [SLAM](#slam)
 - [Stereo](#stereo)
+- [Visual Understanding](#visual-understanding)
 - [Others](#others)
 
 ### Image/Video Captioning
@@ -37,6 +38,9 @@ If you find a paper about computer vision and machine learning is not listed her
 
 * [Object Scene Flow for Autonomous Vehicles](http://www.cvlibs.net/publications/Menze2015CVPR.pdf "Moritz Menze, Andreas Geiger") 
 [Moritz Menze, Andreas Geiger] (2016)
+
+### Visual Understanding
+* [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Others
 * [Collective Deep Quantization for Efficient Cross-Modal Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14499/14269 "Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu") [Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

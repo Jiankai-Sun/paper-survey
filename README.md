@@ -13,6 +13,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
 - [Multi-Tasking](#multi-tasking)
+- [Object Recognition](#object-recognition)
 - [Object Tracking](#object-tracking)
 - [SLAM](#slam)
 - [Stereo](#stereo)
@@ -26,10 +27,14 @@ If you find a paper about computer vision and machine learning is not listed her
 
 ### Image Classification 
 * [Very Deep Convolutional Networks fo Large-scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) [Karen Simonyan, Andrew Zisserman]    
-Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) 
+Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)   
+* [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton] (Advances in Neural Information Processing Systems 25 (NIPS 2012))
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+### Object Recognition
+* []() [] ()
 
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

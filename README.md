@@ -44,11 +44,12 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Stereo 
-* [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://arxiv.org/pdf/1510.05970.pdf "Jure Zbontar, Yann LeCun") 
-[Jure Zbontar, Yann LeCun] (2016)
+* [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://arxiv.org/pdf/1510.05970.pdf "Jure Zbontar, Yann LeCun") [Jure Zbontar, Yann LeCun] (2016)
 
 * [Object Scene Flow for Autonomous Vehicles](http://www.cvlibs.net/publications/Menze2015CVPR.pdf "Moritz Menze, Andreas Geiger") 
 [Moritz Menze, Andreas Geiger] (2016)
+
+* [Improved Stereo Matching with Constant Highway Networks and Reflective Confidence Learning](https://arxiv.org/pdf/1701.00165.pdf) [Amit Shaked, Lior Wolf]
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

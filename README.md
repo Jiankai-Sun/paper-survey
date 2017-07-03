@@ -35,7 +35,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Object Recognition
-* []() [] ()
+* [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

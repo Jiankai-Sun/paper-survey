@@ -51,6 +51,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Improved Stereo Matching with Constant Highway Networks and Reflective Confidence Learning](https://arxiv.org/pdf/1701.00165.pdf) [Amit Shaked, Lior Wolf]
 
+* [High-Resolution Stereo Datasets with Subpixel-Accurate Ground Truth](http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf) [Daniel Scharstein, Heiko Hirschmuller, York Kitajima, Greg Krathwohl, Nera Nesic, Xi Wang, Porter Westling]
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

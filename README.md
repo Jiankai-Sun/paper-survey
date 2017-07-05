@@ -10,7 +10,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - or report an issue here.
 
 ## Table of Contents
-- [Event Detection/Recounting](event-detectionrecounting)
+- [Event Detection/Recounting](#event-detectionrecounting)
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
 - [Multi-Tasking](#multi-tasking)

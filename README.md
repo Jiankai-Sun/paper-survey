@@ -10,6 +10,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - or report an issue here.
 
 ## Table of Contents
+- [Event Detection/Recounting](event-detectionrecounting)
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
 - [Multi-Tasking](#multi-tasking)
@@ -20,6 +21,8 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Visual Understanding](#visual-understanding)
 - [Others](#others)
 
+### Event Detection/Recounting
+* [DECK: Discovering Event Composition Knowledge from Web Images for Zero-Shot Event Detection and Recounting in Videos](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14624/14277) [Chuang Gan, Chen Sun, Ram Nevatia] (AAAI Conference on Artificial Intelligence, North America, feb. 2017.)
 ### Image/Video Captioning
 * [Reference Based LSTM for Image Captioning](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249/14270 "Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu") [Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Jungong Han, Qiang Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

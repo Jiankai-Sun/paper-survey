@@ -40,6 +40,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Object Recognition
 * [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
+* [Differentiating Between Posed and Spontaneous Expressions with Latent Regression Bayesian Network](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14673/14278) [Quan Gan, Siqi Nie, Shangfei Wang, Qiang Ji] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

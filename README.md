@@ -28,6 +28,8 @@ If you find a paper about computer vision and machine learning is not listed her
 
 * [Video Captioning with Listwise Supervision](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14926/14300 "Yuan Liu, Xue Li, Zhongchao Shi") [Yuan Liu, Xue Li, Zhongchao Shi] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
+* [Active Video Summarization: Customized Summaries via On-line Interaction with the User](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14856/14279) [Ana Garcia del Molino, Xavier Boix, Joo-Hwee Lim, Ah-Hwee Tan] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
 ### Image Classification 
 * [Very Deep Convolutional Networks fo Large-scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) [Karen Simonyan, Andrew Zisserman]    
 Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)   

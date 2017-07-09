@@ -50,6 +50,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
+* [Improved Fast Replanning for Robot Navigation in Unknown Terrain](http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra2002-replanning.pdf) [Sven Koenig, Maxim Likhachev] (ICRA 2002)
+
 ### Stereo 
 * [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://arxiv.org/pdf/1510.05970.pdf "Jure Zbontar, Yann LeCun") [Jure Zbontar, Yann LeCun] (2016)
 

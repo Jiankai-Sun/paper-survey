@@ -16,6 +16,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Multi-Tasking](#multi-tasking)
 - [Object Recognition](#object-recognition)
 - [Object Tracking](#object-tracking)
+- [Reinforcement Learning](#reinforcement-learning)
 - [SLAM](#slam)
 - [Stereo](#stereo)
 - [Visual Understanding](#visual-understanding)
@@ -46,6 +47,11 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+### Reinforcement Learning
+* [Robust Reinforcement Learning in Motion Planning](http://papers.nips.cc/paper/843-robust-reinforcement-learning-in-motion-planning.pdf) [Satinder P. Singh, Andrew G. Barto, Roderic Grupen, Christopher Connolly] (Advances in Neural Information Processing Systems, 1994:655--662.)
+
+
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

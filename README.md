@@ -55,16 +55,13 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
-
-* [Improved Fast Replanning for Robot Navigation in Unknown Terrain](http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra2002-replanning.pdf) [Sven Koenig, Maxim Likhachev] (ICRA 2002)
-
-* [Planning Paths of Complete Coverage of an Unstructured Environment by a Mobile Robot](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=EA3362D5BBC8793D9A169314BDB70F07?doi=10.1.1.53.7617&rep=rep1&type=pdf) [A. Zelinsky, R.A. Jarvis, J.C. Byrne and S. Yuta] (Proceedings of international conference on advanced robotics. Vol. 13. 1993.)
-
-* [Coverage path planning for mobile cleaning robots](https://pdfs.semanticscholar.org/d4de/a9fdc67aa058eec7b0994f3abe8b9b4c9e7a.pdf) [Marten Waanders] (15th Twente Student Conference on IT, The Netherlands. 2011)
-
-* [Complete coverage path planning of mobile robots for humanitarian demining](http://www.fp7-tiramisu.eu/sites/fp7-tiramisu.eu/files/publications/Complete%20coverage%20path%20planning%20of%20mobile%20robots%20for%20humanitarian%20demining.pdf) [Marija Ðakulovic, Ivan Petrovic] (Industrial Robot: An International Journal 39.5 (2012): 484-493.)
-
+<!--
+* [Improved Fast Replanning for Robot Navigation in Unknown Terrain](http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra2002-replanning.pdf) [Sven Koenig, Maxim Likhachev] (ICRA 2002)    
+* [Planning Paths of Complete Coverage of an Unstructured Environment by a Mobile Robot](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=EA3362D5BBC8793D9A169314BDB70F07?doi=10.1.1.53.7617&rep=rep1&type=pdf) [A. Zelinsky, R.A. Jarvis, J.C. Byrne and S. Yuta] (Proceedings of international conference on advanced robotics. Vol. 13. 1993.)    
+* [Coverage path planning for mobile cleaning robots](https://pdfs.semanticscholar.org/d4de/a9fdc67aa058eec7b0994f3abe8b9b4c9e7a.pdf) [Marten Waanders] (15th Twente Student Conference on IT, The Netherlands. 2011)    
+* [Complete coverage path planning of mobile robots for humanitarian demining](http://www.fp7-tiramisu.eu/sites/fp7-tiramisu.eu/files/publications/Complete%20coverage%20path%20planning%20of%20mobile%20robots%20for%20humanitarian%20demining.pdf) [Marija Ðakulovic, Ivan Petrovic] (Industrial Robot: An International Journal 39.5 (2012): 484-493.)    
 * [Complete Coverage D\* Algorithm for Path Planning of a Floor-Cleaning Mobile Robot](https://lamor.fer.hr/images/50020777/Dakulovic2011a.pdf) [Marija Dakulovic, Sanja Horvatic, Ivan Petrovic] (IFAC Proceedings Volumes 44.1 (2011): 5950-5955.)
+-->
 
 ### Stereo 
 * [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://arxiv.org/pdf/1510.05970.pdf "Jure Zbontar, Yann LeCun") [Jure Zbontar, Yann LeCun] (2016)

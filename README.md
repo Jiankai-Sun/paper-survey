@@ -51,6 +51,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Reinforcement Learning
 * [Robust Reinforcement Learning in Motion Planning](http://papers.nips.cc/paper/843-robust-reinforcement-learning-in-motion-planning.pdf) [Satinder P. Singh, Andrew G. Barto, Roderic Grupen, Christopher Connolly] (Advances in Neural Information Processing Systems, 1994:655--662.)
 
+* [Deep Reinforcement Learning with Double Q-Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12389/11847) [Hado van Hasselt , Arthur Guez, David Silver] (AAAI Conference on Artificial Intelligence, North America, mar. 2016)
+
 
 
 ### SLAM

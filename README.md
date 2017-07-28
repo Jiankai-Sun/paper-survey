@@ -53,6 +53,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Deep Reinforcement Learning with Double Q-Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12389/11847) [Hado van Hasselt , Arthur Guez, David Silver] (AAAI Conference on Artificial Intelligence, North America, mar. 2016)
 
+* [Visual Semantic Planning using Deep Successor Representations](https://arxiv.org/pdf/1705.08080.pdf) [Yuke Zhu, Daniel Gordon, Eric Kolve1, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi] 
 
 
 ### SLAM

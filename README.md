@@ -55,6 +55,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Visual Semantic Planning using Deep Successor Representations](https://arxiv.org/pdf/1705.08080.pdf) [Yuke Zhu, Daniel Gordon, Eric Kolve1, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi] 
 
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) [John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov] (OpenAI)
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

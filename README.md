@@ -75,11 +75,13 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Object Scene Flow for Autonomous Vehicles](http://www.cvlibs.net/publications/Menze2015CVPR.pdf "Moritz Menze, Andreas Geiger") 
 [Moritz Menze, Andreas Geiger] (2016)
 
-* [Improved Stereo Matching with Constant Highway Networks and Reflective Confidence Learning](https://arxiv.org/pdf/1701.00165.pdf) [Amit Shaked, Lior Wolf]
+* [Improved Stereo Matching with Constant Highway Networks and Reflective Confidence Learning](https://arxiv.org/pdf/1701.00165.pdf) [Amit Shaked, Lior Wolf] (L-ResMatch)
 
 * [High-Resolution Stereo Datasets with Subpixel-Accurate Ground Truth](http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf) [Daniel Scharstein, Heiko Hirschmuller, York Kitajima, Greg Krathwohl, Nera Nesic, Xi Wang, Porter Westling]
 
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](http://www.robotic.dlr.de/fileadmin/robotic/hirschmu/cvpr05hh.pdf) [Heiko Hirschmuller] (Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on IEEE, 2005:807-814.)
+
+* [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (Arxiv, GC-NET)
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

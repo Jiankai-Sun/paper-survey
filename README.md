@@ -17,6 +17,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Object Recognition](#object-recognition)
 - [Object Tracking](#object-tracking)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Semantic Segmentation](#semantic-segmentation)
 - [SLAM](#slam)
 - [Stereo](#stereo)
 - [Visual Understanding](#visual-understanding)
@@ -58,6 +59,9 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) [John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov] (OpenAI)
 
 * [MuJoCo: A physics engine for model-based control](https://homes.cs.washington.edu/~todorov/papers/TodorovIROS12.pdf) [Emanuel Todorov, Tom Erez and Yuval Tassa] (Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on)
+
+### Semantic Segmentation
+* [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

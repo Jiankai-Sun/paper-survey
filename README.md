@@ -56,6 +56,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Visual Semantic Planning using Deep Successor Representations](https://arxiv.org/pdf/1705.08080.pdf) [Yuke Zhu, Daniel Gordon, Eric Kolve1, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi] 
 
+* [Asynchronous methods for deep reinforcement learning](https://arxiv.org/pdf/1602.01783.pdf) [Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Tim Harley, Timothy P. Lillicrap, David Silver, Koray Kavukcuoglu] (International Conference on Machine Learning. 2016)
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) [John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov] (OpenAI)
 
 * [MuJoCo: A physics engine for model-based control](https://homes.cs.washington.edu/~todorov/papers/TodorovIROS12.pdf) [Emanuel Todorov, Tom Erez and Yuval Tassa] (Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on)

@@ -64,6 +64,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 
+* [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587v1) [Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam] (preprint (arxiv: 1706.05587))
+
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 <!--

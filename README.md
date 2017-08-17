@@ -94,6 +94,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Others
+* [Signature Verification using a "Siamese" Time Delay Neural Network](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf) [Jane Bromley, Isabelle Guyon, Yann LeCun] (Advances in Neural Information Processing Systems. 1994.)
+
 * [Collective Deep Quantization for Efficient Cross-Modal Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14499/14269 "Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu") [Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 * [Deep Correlated Metric Learning for Sketch-Based 3D Shape Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14431/14273) [Guoxian Dai, Jin Xie, Fan Zhu, Yi Fang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

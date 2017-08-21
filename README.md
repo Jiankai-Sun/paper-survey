@@ -62,7 +62,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [MuJoCo: A physics engine for model-based control](https://homes.cs.washington.edu/~todorov/papers/TodorovIROS12.pdf) [Emanuel Todorov, Tom Erez and Yuval Tassa] (Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on)
 
-* [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf) [Yuhuai Wu, Elman Mansimov, Shun Liao, Roger Grosse, Jimmy Ba](arXiv)
+* [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf) [Yuhuai Wu, Elman Mansimov, Shun Liao, Roger Grosse, Jimmy Ba] (arXiv: 1708.05144)
 
 
 ### Semantic Segmentation
@@ -94,7 +94,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](http://www.robotic.dlr.de/fileadmin/robotic/hirschmu/cvpr05hh.pdf) [Heiko Hirschmuller] (Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on IEEE, 2005:807-814.)
 
-* [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (Arxiv, GC-NET)
+* [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (arXiv, 1703.04309, GC-NET)
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

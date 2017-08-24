@@ -14,6 +14,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
 - [Multi-Tasking](#multi-tasking)
+- [Network Structure](#network-structure)
 - [Object Recognition](#object-recognition)
 - [Object Tracking](#object-tracking)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -40,6 +41,10 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+### [Network Structure]
+* [Densely Connected Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf) [Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4700-4708)
+
 
 ### Object Recognition
 * [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

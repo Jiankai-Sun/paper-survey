@@ -45,6 +45,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Network Structure
 * [Densely Connected Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf) [Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4700-4708)
 
+* [Ubernet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kokkinos_Ubernet_Training_a_CVPR_2017_paper.pdf) [Iasonas Kokkinos] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 6129-6138)
 
 ### Object Recognition
 * [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

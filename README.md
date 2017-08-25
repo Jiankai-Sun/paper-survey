@@ -51,6 +51,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Differentiating Between Posed and Spontaneous Expressions with Latent Regression Bayesian Network](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14673/14278) [Quan Gan, Siqi Nie, Shangfei Wang, Qiang Ji] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun] (Advances in Neural Information Processing Systems 28 (NIPS 2015))
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

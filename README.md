@@ -45,6 +45,10 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Network Structure
 * [Densely Connected Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf) [Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4700-4708)
 
+* [Dual Path Networks](https://arxiv.org/pdf/1707.01629.pdf) [Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng] (arXiv: 1707.01629) 
+
+  - Related:[cypw/DPNs - GitHub](https://github.com/cypw/DPNs)
+
 * [Ubernet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kokkinos_Ubernet_Training_a_CVPR_2017_paper.pdf) [Iasonas Kokkinos] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 6129-6138)
 
 ### Object Recognition

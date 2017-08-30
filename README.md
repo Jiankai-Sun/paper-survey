@@ -63,6 +63,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Reinforcement Learning
+* [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [Volodymyr Mnih,	Koray Kavukcuoglu,	David Silver,	Andrei A. Rusu,	Joel Veness,	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg	& Demis Hassabis] (Nature 518.7540 (2015): 529-533.)
+
 * [Robust Reinforcement Learning in Motion Planning](http://papers.nips.cc/paper/843-robust-reinforcement-learning-in-motion-planning.pdf) [Satinder P. Singh, Andrew G. Barto, Roderic Grupen, Christopher Connolly] (Advances in Neural Information Processing Systems, 1994:655--662.)
 
 * [Deep Reinforcement Learning with Double Q-Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12389/11847) [Hado van Hasselt , Arthur Guez, David Silver] (AAAI Conference on Artificial Intelligence, North America, mar. 2016)
@@ -77,6 +79,7 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf) [Yuhuai Wu, Elman Mansimov, Shun Liao, Roger Grosse, Jimmy Ba] (arXiv: 1708.05144)
 
+* [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) [David Silver,	Aja Huang,	Chris J. Maddison,	Arthur Guez,	Laurent Sifre,	George van den Driessche,	Julian Schrittwieser,	Ioannis Antonoglou,	Veda Panneershelvam,	Marc Lanctot, Sander Dieleman,	Dominik Grewe,	John Nham,	Nal Kalchbrenner,	Ilya Sutskever,	Timothy Lillicrap,	Madeleine Leach,	Koray Kavukcuoglu,	Thore Graepel	& Demis Hassabis] (Nature 529.7587 (2016): 484-489.)
 
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)

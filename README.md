@@ -87,6 +87,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 * [ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras](https://arxiv.org/pdf/1610.06475.pdf) [Raul Mur-Artal, Juan D. Tardos] (arXiv: 1610.06475)
+
+* [Real-Time Loop Closure in 2D LIDAR SLAM](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45466.pdf) [Wolfgang Hess, Damon Kohler, Holger Rapp, Daniel Andor] (2016 IEEE International Conference on Robotics and Automation (ICRA), pp. 1271-1278)
 <!--
 * [Improved Fast Replanning for Robot Navigation in Unknown Terrain](http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra2002-replanning.pdf) [Sven Koenig, Maxim Likhachev] (ICRA 2002)    
 * [Planning Paths of Complete Coverage of an Unstructured Environment by a Mobile Robot](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=EA3362D5BBC8793D9A169314BDB70F07?doi=10.1.1.53.7617&rep=rep1&type=pdf) [A. Zelinsky, R.A. Jarvis, J.C. Byrne and S. Yuta] (Proceedings of international conference on advanced robotics. Vol. 13. 1993.)    

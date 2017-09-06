@@ -83,6 +83,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/pdf/1611.05397.pdf) [Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu] (arXiv preprint arXiv:1611.05397 (2016))
 
+* [Reinforcement Learning Neural Turing Machines - Revised](https://arxiv.org/pdf/1505.00521.pdf) [Wojciech Zaremba, Ilya Sutskever] (arXiv preprint arXiv:1505.00521)
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 

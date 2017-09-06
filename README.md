@@ -81,10 +81,13 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) [David Silver,	Aja Huang,	Chris J. Maddison,	Arthur Guez,	Laurent Sifre,	George van den Driessche,	Julian Schrittwieser,	Ioannis Antonoglou,	Veda Panneershelvam,	Marc Lanctot, Sander Dieleman,	Dominik Grewe,	John Nham,	Nal Kalchbrenner,	Ilya Sutskever,	Timothy Lillicrap,	Madeleine Leach,	Koray Kavukcuoglu,	Thore Graepel	& Demis Hassabis] (Nature 529.7587 (2016): 484-489.)
 
+* [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/pdf/1611.05397.pdf) [Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu] (arXiv preprint arXiv:1611.05397 (2016))
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 
 * [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587v1.pdf) [Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam] (preprint (arxiv: 1706.05587))
+
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

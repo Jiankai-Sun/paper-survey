@@ -85,6 +85,10 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Reinforcement Learning Neural Turing Machines - Revised](https://arxiv.org/pdf/1505.00521.pdf) [Wojciech Zaremba, Ilya Sutskever] (arXiv preprint arXiv:1505.00521)
 
+* [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) [John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel] (preprint (arxiv: 1502.05477))
+
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf) [Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, David Silver] (preprint (arxiv: 1707.02286))
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 

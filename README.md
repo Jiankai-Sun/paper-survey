@@ -132,3 +132,5 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Collective Deep Quantization for Efficient Cross-Modal Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14499/14269 "Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu") [Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 * [Deep Correlated Metric Learning for Sketch-Based 3D Shape Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14431/14273) [Guoxian Dai, Jin Xie, Fan Zhu, Yi Fang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
+
+* [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://papers.nips.cc/paper/6114-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks.pdf) [Tim Salimans, Diederik P. Kingma] (Advances in Neural Information Processing Systems. 2016.(NIPS 2016))

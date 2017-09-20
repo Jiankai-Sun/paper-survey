@@ -63,6 +63,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
 ### Reinforcement Learning
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf) [Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas] (arXiv preprint arXiv:1511.06581 (2015))
+
 * [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [Volodymyr Mnih,	Koray Kavukcuoglu,	David Silver,	Andrei A. Rusu,	Joel Veness,	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg	& Demis Hassabis] (Nature 518.7540 (2015): 529-533.)
 
 * [Robust Reinforcement Learning in Motion Planning](http://papers.nips.cc/paper/843-robust-reinforcement-learning-in-motion-planning.pdf) [Satinder P. Singh, Andrew G. Barto, Roderic Grupen, Christopher Connolly] (Advances in Neural Information Processing Systems, 1994:655--662.)

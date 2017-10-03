@@ -93,9 +93,9 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf) [Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, David Silver] (preprint (arxiv: 1707.02286))
 
-*[Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/pdf/1707.04175.pdf) [Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, Razvan Pascanu] (arXiv: 1707.04175)
+* [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/pdf/1707.04175.pdf) [Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, Razvan Pascanu] (arXiv: 1707.04175)
 
-*[The successor representation in human reinforcement learning](http://www.biorxiv.org/content/biorxiv/early/2017/07/04/083824.full.pdf) [I. Momennejad, E. M. Russek, J. H. Cheong, M. M. Botvinick, N. D. Daw & S. J. Gershman] (Nature Human Behaviour, bioRxiv, 083824)
+* [The successor representation in human reinforcement learning](http://www.biorxiv.org/content/biorxiv/early/2017/07/04/083824.full.pdf) [I. Momennejad, E. M. Russek, J. H. Cheong, M. M. Botvinick, N. D. Daw & S. J. Gershman] (Nature Human Behaviour, bioRxiv, 083824)
 
 Related: 
 - [Related Blogpost from Deepmind](https://deepmind.com/blog/hippocampus-predictive-map/)

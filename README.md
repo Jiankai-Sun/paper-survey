@@ -95,6 +95,12 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 *[Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/pdf/1707.04175.pdf) [Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, Razvan Pascanu] (arXiv: 1707.04175)
 
+*[The successor representation in human reinforcement learning](http://www.biorxiv.org/content/biorxiv/early/2017/07/04/083824.full.pdf) [I. Momennejad, E. M. Russek, J. H. Cheong, M. M. Botvinick, N. D. Daw & S. J. Gershman] ()
+
+Related: 
+- [Related Blogpost from Deepmind](https://deepmind.com/blog/hippocampus-predictive-map/)
+- [Homepage - Ida Momennejad](https://www.momen-nejad.org/)
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 

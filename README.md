@@ -101,6 +101,8 @@ Related:
 - [Related Blogpost from Deepmind](https://deepmind.com/blog/hippocampus-predictive-map/)
 - [Homepage - Ida Momennejad](https://www.momen-nejad.org/)
 
+* [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) [Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver] (arXiv:1710.02298 [cs.AI])
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 

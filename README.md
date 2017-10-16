@@ -59,6 +59,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Learning by Association -- A Versatile Semi-Supervised Training Method for Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haeusser_Learning_by_Association_CVPR_2017_paper.pdf) [Philip Haeusser, Alexander Mordvintsev, Daniel Cremers] (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 89-98)
 
+* [Hierarchical Memory Networks](https://arxiv.org/pdf/1605.07427.pdf) [Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio] (arXiv:1605.07427 [stat.ML])
+
 ### Object Recognition
 * [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

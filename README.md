@@ -18,6 +18,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Network Engineering](#network-engineering)
 - [Object Recognition](#object-recognition)
 - [Object Tracking](#object-tracking)
+- [Pose Detection](#pose-detection)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Semantic Segmentation](#semantic-segmentation)
 - [SLAM](#slam)
@@ -73,6 +74,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Object Tracking
 * [Robust Visual Tracking via Local-Global Correlation Filter](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14351/14276 "Heng Fan, Jinhai Xiang") [Heng Fan, Jinhai Xiang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 
+### Pose Detection
+* [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](https://arxiv.org/pdf/1705.01583.pdf) [Dushyant Mehta, Srinath Sridhar, Oleksandr Sotnychenko, Helge Rhodin, Mohammad Shafiei, Hans-Peter Seidel, Weipeng Xu, Dan Casas, Christian Theobalt] (ACM Transactions on Graphics (SIGGRAPH 2017)) (http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
 ### Reinforcement Learning
 * [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf) [Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas] (arXiv preprint arXiv:1511.06581 (2015))
@@ -114,6 +117,8 @@ Related:
 - [Homepage - Ida Momennejad](https://www.momen-nejad.org/)
 
 * [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) [Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver] (arXiv:1710.02298 [cs.AI])
+
+* [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ) [David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Huang, Arthur Guez,  Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton, Yutian Chen, Timothy Lillicrap, Fan Hui, Laurent Sifre, George van den Driessche, Thore Graepel & Demis Hassabis] (Nature 2017)
 
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)

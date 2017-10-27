@@ -62,6 +62,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Hierarchical Memory Networks](https://arxiv.org/pdf/1605.07427.pdf) [Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio] (arXiv:1605.07427 [stat.ML])
 
+* [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) [Sara Sabour, Nicholas Frosst, Geoffrey E Hinton] (arXiv:1710.09829 [cs.CV])
+
 ### Object Recognition
 * [Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14825/14321) [Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, Yuwei Wu1] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

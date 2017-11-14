@@ -13,6 +13,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Event Detection/Recounting](#event-detectionrecounting)
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
+- [Machine Learning](#machine-learning)
 - [Multi-Tasking](#multi-tasking)
 - [Natural-Language-Processing](#natural-language-processing)
 - [Network Engineering](#network-engineering)
@@ -40,6 +41,8 @@ If you find a paper about computer vision and machine learning is not listed her
 Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)   
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton] (Advances in Neural Information Processing Systems 25 (NIPS 2012))
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) [Matthew D. Zeiler, Rob Fergus] (Computer Vision – ECCV 2014)
+### Machine Learning
+* [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730) [Pang Wei Koh, Percy Liang] (International Conference on Machine Learning(ICML), 2017)
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

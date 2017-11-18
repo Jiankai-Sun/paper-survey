@@ -44,6 +44,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Machine Learning
 * [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730) [Pang Wei Koh, Percy Liang] (International Conference on Machine Learning(ICML), 2017)
 
+* [Adaptive dropout for training deep neural networks](https://papers.nips.cc/paper/5032-adaptive-dropout-for-training-deep-neural-networks.pdf) [Lei Jimmy Ba Brendan Frey] (Advances in Neural Information Processing Systems 26 (NIPS 2013))
+
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

@@ -13,6 +13,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Event Detection/Recounting](#event-detectionrecounting)
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
+- [Imitation Learning](#imitation-learning)
 - [Machine Learning](#machine-learning)
 - [Multi-Tasking](#multi-tasking)
 - [Natural-Language-Processing](#natural-language-processing)
@@ -41,6 +42,10 @@ If you find a paper about computer vision and machine learning is not listed her
 Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)   
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton] (Advances in Neural Information Processing Systems 25 (NIPS 2012))
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) [Matthew D. Zeiler, Rob Fergus] (Computer Vision – ECCV 2014)
+
+### Imitation Learning
+* [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686.pdf) [Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell] (arXiv:1011.0686)
+
 ### Machine Learning
 * [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730) [Pang Wei Koh, Percy Liang] (International Conference on Machine Learning(ICML), 2017)
 
@@ -162,7 +167,6 @@ Related:
 
 * [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (arXiv, 1703.04309, GC-NET)
 
-* [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686.pdf) [Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell] (arXiv:1011.0686)
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

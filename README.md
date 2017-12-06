@@ -162,6 +162,8 @@ Related:
 
 * [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (arXiv, 1703.04309, GC-NET)
 
+* [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686.pdf) [Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell] (arXiv:1011.0686)
+
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)
 

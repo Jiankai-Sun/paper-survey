@@ -138,6 +138,8 @@ Related:
 
 * [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587v1.pdf) [Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam] (preprint (arxiv: 1706.05587))
 
+* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf) [John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel] (ICLR 2016)
+
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

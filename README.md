@@ -46,10 +46,17 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 ### Imitation Learning
 * [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686.pdf) [Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell] (arXiv:1011.0686)
 
+* [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://arxiv.org/pdf/1707.08817.pdf) [Matej Večerík, Todd Hester, Jonathan Scholz, Fumin Wang, Olivier Pietquin, Bilal Piot, Nicolas Heess, Thomas Rothörl, Thomas Lampe, Martin Riedmiller] (arXiv:1707.08817[cs.AI])
+
+* [Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf) [Jonathan Ho, Stefano Ermon] (arXiv:1606.03476)
+
 ### Machine Learning
 * [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730) [Pang Wei Koh, Percy Liang] (International Conference on Machine Learning(ICML), 2017)
 
 * [Adaptive dropout for training deep neural networks](https://papers.nips.cc/paper/5032-adaptive-dropout-for-training-deep-neural-networks.pdf) [Lei Jimmy Ba Brendan Frey] (Advances in Neural Information Processing Systems 26 (NIPS 2013))
+
+### Meta Learning
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) [Chelsea Finn, Pieter Abbeel, Sergey Levine] (arXiv:1703.03400)
 
 ### Multi-Tasking
 * [A Multi-Task Deep Network for Person Re-Identification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14313/14271 "Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang") [Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

@@ -140,6 +140,9 @@ Related:
 * [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ) [David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja Huang, Arthur Guez,  Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton, Yutian Chen, Timothy Lillicrap, Fan Hui, Laurent Sifre, George van den Driessche, Thore Graepel & Demis Hassabis] (Nature 2017)
 
 * [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/pdf/1702.03920.pdf) [Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik] (arXiv preprint arXiv:1702.03920)
+
+* [Building Generalizable Agents with a Realistic and Rich 3D Environment](https://openreview.net/pdf?id=rkaT3zWCZ) [Anonymous] (ICLR 2018 Conference Blind Submission)
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 

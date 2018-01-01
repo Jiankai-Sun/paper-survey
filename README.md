@@ -55,6 +55,9 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Adaptive dropout for training deep neural networks](https://papers.nips.cc/paper/5032-adaptive-dropout-for-training-deep-neural-networks.pdf) [Lei Jimmy Ba Brendan Frey] (Advances in Neural Information Processing Systems 26 (NIPS 2013))
 
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf) [Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals] (ICLR 2017)
+
+
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) [Chelsea Finn, Pieter Abbeel, Sergey Levine] (arXiv:1703.03400)
 

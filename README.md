@@ -25,6 +25,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Semantic Segmentation](#semantic-segmentation)
 - [SLAM](#slam)
 - [Stereo](#stereo)
+- [Visual QA](#visual-qa)
 - [Visual Understanding](#visual-understanding)
 - [Others](#others)
 
@@ -182,6 +183,8 @@ Related:
 
 * [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/pdf/1703.04309.pdf) [Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, Adam Bry] (arXiv, 1703.04309, GC-NET)
 
+### Visual QA
+* [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/pdf/1712.03316.pdf) [Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi] (Under review for CVPR 2018)
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

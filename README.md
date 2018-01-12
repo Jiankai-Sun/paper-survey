@@ -58,6 +58,8 @@ Related: [ConvNet, VGG-16 model Source Code](https://gist.github.com/baraldilore
 
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf) [Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals] (ICLR 2017)
 
+* [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) [Anonymous] (ICLR 2018 Conference Blind Submission)
+
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) [Chelsea Finn, Pieter Abbeel, Sergey Levine] (arXiv:1703.03400)

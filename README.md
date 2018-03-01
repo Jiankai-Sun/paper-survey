@@ -10,6 +10,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - or report an issue here.
 
 ## Table of Contents
+- [Action Recognition](#action-recognition)
 - [Event Detection/Recounting](#event-detectionrecounting)
 - [Image/Video Captioning](#imagevideo-captioning)
 - [Image Classification](#image-classification)
@@ -28,6 +29,10 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Visual QA](#visual-qa)
 - [Visual Understanding](#visual-understanding)
 - [Others](#others)
+
+### Action Recognition
+* [Action Recognition with Coarse-to-Fine Deep Feature Integration and Asynchronous Fusion](https://arxiv.org/pdf/1711.07430.pdf) [Weiyao Lin1, Yang Mi, Jianxin Wu, Ke Lu, Hongkai Xiong] (AAAI 2018)
+
 
 ### Event Detection/Recounting
 * [DECK: Discovering Event Composition Knowledge from Web Images for Zero-Shot Event Detection and Recounting in Videos](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14624/14277) [Chuang Gan, Chen Sun, Ram Nevatia] (AAAI Conference on Artificial Intelligence, North America, feb. 2017.)
@@ -187,6 +192,8 @@ Related:
 
 ### Visual QA
 * [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/pdf/1712.03316.pdf) [Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi] (Under review for CVPR 2018)
+
+* [Hierarchical Question-Image Co-Attention for Visual Question Answering](https://arxiv.org/pdf/1606.00061.pdf) [Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh] (https://arxiv.org/pdf/1606.00061.pdf)
 
 ### Visual Understanding
 * [Sherlock: Scalable Fact Learning in Images](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14457/14275 "Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal") [Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

@@ -31,7 +31,7 @@ If you find a paper about computer vision and machine learning is not listed her
 - [Others](#others)
 
 ### Action Recognition
-* [Action Recognition with Coarse-to-Fine Deep Feature Integration and Asynchronous Fusion](https://arxiv.org/pdf/1711.07430.pdf) [Weiyao Lin1, Yang Mi, Jianxin Wu, Ke Lu, Hongkai Xiong] (AAAI 2018)
+* [Action Recognition with Coarse-to-Fine Deep Feature Integration and Asynchronous Fusion](https://arxiv.org/pdf/1711.07430.pdf) [Weiyao Lin, Yang Mi, Jianxin Wu, Ke Lu, Hongkai Xiong] (AAAI 2018)
 
 
 ### Event Detection/Recounting

@@ -161,6 +161,8 @@ Related:
 
 * [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf) [John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel] (ICLR 2016)
 
+* [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/pdf/1511.07122.pdf) [Fisher Yu, Vladlen Koltun] (ICLR 2016)
+
 
 ### SLAM
 * [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272 "Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni") [Ronald Clark, Sen Wang, Hongkai Wen, Andrew Markham, Niki Trigoni] (AAAI Conference on Artificial Intelligence, North America, feb. 2017)

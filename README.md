@@ -154,6 +154,10 @@ Related:
 
 * [Building Generalizable Agents with a Realistic and Rich 3D Environment](https://openreview.net/pdf?id=rkaT3zWCZ) [Anonymous] (ICLR 2018 Conference Blind Submission)
 
+* [Unifying Map and Landmark Based Representations for Visual Navigation](https://arxiv.org/pdf/1712.08125.pdf) [Saurabh Gupta, David Fouhey, Sergey Levine, Jitendra Malik] (arXiv, 2017) https://s-gupta.github.io/cmpl/
+
+
+
 ### Semantic Segmentation
 * [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/pdf/1611.06612.pdf) [Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid] (CVPR 2017)
 
